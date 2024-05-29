@@ -77,3 +77,4 @@ rc-update add sshd default
 rc-update add cloud-init default
 rc-update add cloud-config default
 rc-update add cloud-final default
+rc-update add docker default
