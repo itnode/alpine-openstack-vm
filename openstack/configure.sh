@@ -11,7 +11,7 @@ step 'Set up timezone'
 setup-timezone -z Europe/Paris
 
 step 'Set up keymap'
-setup-keymap fr fr-azerty
+setup-keymap de
 
 step 'Set up networking'
 cat > /etc/network/interfaces <<-EOF
