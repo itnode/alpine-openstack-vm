@@ -10,3 +10,6 @@ zsh
 oh-my-zsh
 py3-pyserial
 py3-netifaces
+docker
+docker-compose
+vim
